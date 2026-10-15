@@ -1,0 +1,5 @@
+# Compiled by QB64 from REPORT.BAS; build it yourself (see README).
+*.exe
+
+# The class records. Created on first run, and they belong to whoever ran it.
+students.dat
